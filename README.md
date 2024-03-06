@@ -1,2 +1,2 @@
 deploy link:
-https://xeta-assignment.netlify.app/dashboarddesign
+https://xeta-assignment.netlify.app/
